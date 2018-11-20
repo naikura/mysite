@@ -1,6 +1,6 @@
 require "./numbersrand"
 
-number =  numbers(1,5)
+number =  numbers(0,9)
 #変数の呼び出しできた。次は、
 puts "九九のもんだい"
 
